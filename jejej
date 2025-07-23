@@ -1,0 +1,17 @@
+ColorShotFPS/
+├── Assets/
+│   ├── Scripts/
+│   │   ├── Auth/
+│   │   │   └── FirebaseAuthManager.cs
+│   │   ├── Multiplayer/
+│   │   │   └── FusionNetworkManager.cs
+│   │   ├── Gameplay/
+│   │   │   ├── PlayerController.cs
+│   │   │   ├── Gun.cs
+│   ├── Scenes/
+│   │   ├── Login.unity
+│   │   ├── Lobby.unity
+│   │   └── Arena.unity
+│   └── Prefabs/
+│       ├── Player.prefab
+│       └── Weapon.prefab
